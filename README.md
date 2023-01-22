@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LFuxdesign
 - 👀 I’m interested in web design
-- 🌱 I’m currently learning programming
+- 🌱 I’m always learning programming
 
 <!---
 LFuxdesign/LFuxdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
