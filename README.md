@@ -2,7 +2,7 @@
 
 # Sobre Mim
 
-Sou um apaixonado por tecnologia e programação, estudante de Ciências da Computação na renomada Universidade Federal do Estado de Mato Grosso (UFMT). 🎓
+Sou um apaixonado por tecnologia e programação, estudante de Ciências da Computação na Universidade Federal do Estado de Mato Grosso (UFMT). 🎓
 
 # 🚀 Skills e Habilidades
 
